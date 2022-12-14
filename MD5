@@ -1,0 +1,14 @@
+abe8f75b3ade6541b319ebdabe9a8261 *DESCRIPTION
+8d2375daea8e0bcc738de203a716c1a6 *NAMESPACE
+fa0768543cac49a2151b57bdeb1d4eab *R/01_shortCallCondor.R
+1200af693e6593477469e0813ff74e73 *R/02_longCallCondor.R
+3f26eebaa604d96f9ca833e178f38ff6 *R/03_shortPutCondor.R
+7b3737c191e2a38cfcd5509adba61475 *R/04_longPutCondor.R
+910a10aaedccd6a2e0967262673bb088 *R/05_shortIronCondor.R
+b9895672783f1d204b00db404c9cb3e1 *R/06_longIronCondor.R
+3fe6ac9ba3017deb8ed8863f2df5e33d *man/longCallCondor.Rd
+ac854dc32d9210fdb35e1b162d721bd4 *man/longIronCondor.Rd
+1e24efb23e394c0d62703d7520131be6 *man/longPutCondor.Rd
+e9ddb332dd323348aa7878c7f71d06ce *man/shortCallCondor.Rd
+7d7dcd4aed5d1221118a2fe10047d571 *man/shortIronCondor.Rd
+ad356ee07f8ff9ca08af67ed4aecacc7 *man/shortPutCondor.Rd
